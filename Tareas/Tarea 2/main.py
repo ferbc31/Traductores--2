@@ -214,3 +214,5 @@ tabla.heading("Número", text="Número")
 tabla.pack(pady=10)
 
 ventana.mainloop()
+
+#var1 ; , ( ) { } = if while return else 1 + - || && * /  == < <= > >= != int
